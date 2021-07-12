@@ -1,4 +1,9 @@
 # covid-tracker
+> A simple web app showing daily covid cases
+
+## Tech Stack
+- Vue.js
+- Tailwind
 
 ## Project setup
 ```
