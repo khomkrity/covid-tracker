@@ -1,7 +1,10 @@
 <template>
   <Header />
-  <router-view />
+  <div class="container">
+    <router-view />
+  </div>
 </template>
+
 
 <script>
 import Header from "@/components/Header";
